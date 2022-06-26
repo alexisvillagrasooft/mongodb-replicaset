@@ -41,4 +41,4 @@ services:
 
 networks:
   welletfun-net:
-    driver: bridge
+    external: true
